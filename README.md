@@ -13,31 +13,31 @@
 ## 书籍目录
 
 * PART 1 FOUNDATIONAL SPRING
- + 1 Getting started with Spring
- + 2 Developing web applications
- + 3 Working with data
- + 4 Securing Spring
- + 5 Working with configuration properties
+  + 1 Getting started with Spring
+  + 2 Developing web applications
+  + 3 Working with data
+  + 4 Securing Spring
+  + 5 Working with configuration properties
 * PART 2 INTEGRATED SPRING
- + 6 Creating REST services
- + 7 Consuming REST services
- + 8 Sending messages asynchronously
- + 9 Integrating Spring
+  + 6 Creating REST services
+  + 7 Consuming REST services
+  + 8 Sending messages asynchronously
+  + 9 Integrating Spring
 * PART 3 REACTIVE SPRING
- + 10 Introducing Reactor
- + 11 Developing reactive APIs
- + 12 Persisting data reactively
+  + 10 Introducing Reactor
+  + 11 Developing reactive APIs
+  + 12 Persisting data reactively
 * PART 4 CLOUD-NATIVE SPRING
- + 13 Discovering services
- + 14 Managing configuration
- + 15 Handling failure and latency
+  + 13 Discovering services
+  + 14 Managing configuration
+  + 15 Handling failure and latency
 * PART 5 DEPLOYED SPRING
- + 16 Working with Spring Boot Actuator
- + 17 Administering Spring
- + 18 Monitoring Spring with JMX
- + 19 Deploying Spring
+  + 16 Working with Spring Boot Actuator
+  + 17 Administering Spring
+  + 18 Monitoring Spring with JMX
+  + 19 Deploying Spring
 * Appendixes
- + Appendix A: Bootstrapping Spring applications
+  + Appendix A: Bootstrapping Spring applications
 
 # 资源
 
